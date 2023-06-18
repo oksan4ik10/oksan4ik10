@@ -3,7 +3,7 @@
 ### About me
 ## I'm a Wife, Mother, Developer, and Teacher!!
 
-- 🔭 Check out my gift for you: [Gift](https://t.me/kalininateach/37)]!
+- 🔭 Check out my gift for you: [Gift](https://t.me/kalininateach/37)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 👩‍🏫 I have been teaching frontend for over 5 years.
