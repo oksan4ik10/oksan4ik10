@@ -10,7 +10,7 @@
 - 👨‍💻 Among my students there are Middle Frontend developer, web designers, Frontend and Backend developments
 - 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I love to knite and play guitar / drums
-- 📩Contact with me: [Telegram](https://t.me/kalininaFrontend)!
+- 📩Contact with me: [Telegram](https://t.me/kalininaFrontend)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
