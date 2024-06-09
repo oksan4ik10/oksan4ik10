@@ -1,15 +1,12 @@
 ### Hi there 👋
 
 ### About me
-## I'm a Wife, Mother, Developer, and Teacher!!
+## I'm a Wife, Mother, and Frontent-Developer!
 
-- 🔭 Check out my gift for you: [Gift](https://t.me/kalininateach/37)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 👩‍🏫 I have been teaching frontend for over 5 years.
-- 👨‍💻 Among my students there are Middle Frontend developer, web designers, Frontend and Backend developments
+- 👩‍🏫 I have been teaching frontend for over 9 years.
 - 🥅 2023 Goals: Learn more about web3
-- ⚡ Fun fact: I love to knite and play guitar / drums
 - 📩Contact with me: [Telegram](https://t.me/kalininaFrontend)
 
 ### :hammer_and_wrench: Languages and Tools :
