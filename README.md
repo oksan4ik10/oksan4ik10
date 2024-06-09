@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 👩‍🏫 I have been teaching frontend for over 9 years.
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2024 Goals: Learn more about Next.js
 - 📩Contact with me: [Telegram](https://t.me/kalininaFrontend)
 
 ### :hammer_and_wrench: Languages and Tools :
