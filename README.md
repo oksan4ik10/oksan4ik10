@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 ### About me
-## I'm a Wife, Mother, and Frontent-Developer!
+## I'm a Frontent-Developer!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I did work for the Amediateka, Ile De Beaute and Hainz 
 - 👩‍🏫 I have been teaching frontend for over 9 years.
 - 🥅 2024 Goals: Learn more about Next.js
 - 📩Contact with me: [Telegram](https://t.me/kalininaFrontend)
