@@ -4,7 +4,7 @@
 ## I'm a Frontent-Developer!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I did work for the Amediateka, Ile De Beaute and Hainz 
+- 👯 I did work for the Amediateka, Ile De Beaute and Heinz 
 - 👩‍🏫 I have been teaching frontend for over 9 years.
 - 🥅 2025 Goals: Learn more about Angular
 - 📩Contact with me: [Telegram](https://t.me/kalininaFrontend)
