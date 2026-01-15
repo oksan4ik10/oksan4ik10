@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 ### About me
-## I'm a Frontent-Developer!
+## Web Developer building end-to-end solutions: UI, APIs, business apps, and browser games
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I did work for the Amediateka, Ile De Beaute and Heinz 
-- 👩‍🏫 I have been teaching frontend for over 9 years.
+- End-to-end experience: **UI design → API implementation**, including **SOAP-to-REST migration**  
+- Additional experience with **low-code platform Caspio**
+- Freelance experience: browser-based games for **Ile de Beauté, Amediateka, Pepsi,Heinz**
+- Team experience building **Telegram Mini Apps**
+- Prior background: **10 years of IT teaching experience**
 - 📩Contact with me: [Telegram](https://t.me/kalininaFrontend)
 
 ### :hammer_and_wrench: Languages and Tools :
